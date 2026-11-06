@@ -1,12 +1,10 @@
 ### ¡Hola, soy Jonatan Alejandro! 👋
 
 - 🌱 Actualmente me encuentro impulsando proyectos como **Full Stack Web Developer**, integrando el uso de herramientas de **Inteligencia Artificial** para optimizar el código y acelerar el desarrollo.
-- 🎨 Aporto una sólida trayectoria de **10 años como Diseñador Gráfico**, cuidando cada detalle visual y de experiencia de usuario (UX/UI).
 
 📫 **¡Conectemos!**
 - 📧 Email: gamboajonatan32@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-gamboa-herrera-21a08a414/)
-- [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/anaaragon)
 
 ---
 
