@@ -1,6 +1,6 @@
 ### ¡Hola, soy Jonatan Alejandro! 👋
 
-- 🌱 Actualmente me encuentro impulsando proyectos como **Full Stack Web Developer**, integrando el uso de herramientas de **Inteligencia Artificial** para optimizar el código y acelerar el desarrollo.
+- 🌱 Actualmente me encuentro impulsando proyectos como **Front end Developer**, integrando el uso de herramientas de **Inteligencia Artificial** para optimizar el código y acelerar el desarrollo.
 
 📫 **¡Conectemos!**
 - 📧 Email: gamboajonatan32@gmail.com
