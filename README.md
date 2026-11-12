@@ -4,7 +4,7 @@
 - 🌱 Estoy aprendiendo **JavaScript** apoyándome en herramientas de **Inteligencia Artificial** para optimizar mi código y acelerar mi flujo de trabajo.
 
 📫 **¡Conectemos!**
-- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/jonatan-gamboa-herrera-21a08a414/)
+- [![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
@@ -18,6 +18,17 @@
 ![JavaScript](https://shields.io)
 ![Artificial Intelligence](https://shields.io)
 ![VS Code](https://shields.io)
+
+---
+
+## 🚀 Proyectos Destacados (Desarrollo Grupal)
+
+### 🤝 [Nombre del Proyecto Grupal](https://github.com)
+> Breve descripción del proyecto, qué problema resuelve y cuál fue tu aporte principal dentro del equipo (ej. desarrollo de interfaz, lógica backend o integración con IA).
+
+- **Rol en el equipo:** Desarrollador Full Stack / Frontend *(ajusta según tu aporte)*
+- **Tecnologías utilizadas:** `Java` `HTML5` `CSS3` `Tailwind CSS` `JavaScript`
+- **Enlaces:** [🔗 Ver Repositorio](https://github.com) | [🌐 Demo en Vivo](https://tu-enlace-demo.com)
 
 ---
 
