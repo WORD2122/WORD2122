@@ -11,7 +11,7 @@
 - 🌱 Estoy aprendiendo **JavaScript** apoyándome en herramientas de **Inteligencia Artificial** para optimizar mi código y acelerar mi flujo de trabajo.
 
 📫 **¡Conectemos!**
-- [![LinkedIn](https://www.linkedin.com/in/jonatan-gamboa-herrera-21a08a414/)
+- [![LinkedIn](https://shields.io)](/in/jonatan-gamboa-herrera-21a08a414/)
 
 #### 🚀 Proyectos Destacados (Desarrollo Grupal)
 
@@ -40,7 +40,7 @@
 - 🌱 Currently learning **JavaScript** while leveraging **Artificial Intelligence** tools to optimize code and accelerate my workflow.
 
 📫 **Let's connect!**
-- [![LinkedIn](https://shields.io)](https://linkedin.com)
+- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/jonatan-gamboa-herrera-21a08a414/)
 
 #### 🚀 Featured Projects (Team Development)
 
