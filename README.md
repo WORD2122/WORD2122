@@ -21,7 +21,7 @@
 - **Rol en el equipo:** Desarrollador Web / Data.json
 - **Tecnologías utilizadas:** `HTML5` `CSS3` `JavaScript`
 - **Enlaces:** [🌐 Demo en Vivo](https://vercel.app)
-- **Participantes:** [Gabriel](https://github.com/BrennanDzz, [Paula](https://github.com/paulals1128), [Carlos](https://github.com)
+- **Participantes:** [Gabriel](https://github.com/BrennanDzz), [Paula](https://github.com/paulals1128), [Carlos](https://github.com)
 
 **🎬 [Nightmare Club - Videoclub de Terror](https://github.io)**
 > Plataforma web temática enfocada en el catálogo y gestión de películas de terror, desarrollada de forma colaborativa en equipo.
@@ -92,5 +92,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://tenor.com" width="100%" alt="Goku" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ2dm0yY2RqZXhqN3B5MnBlaXNkNjB1amV2MjBjdWNua3Zsb2h0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I2ZSFV5GO93jLVIjJR/giphy.gif" width="100%" alt="Goku" />
 </div>
