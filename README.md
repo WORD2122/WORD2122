@@ -17,9 +17,10 @@
 
 **🍽️ [Raíz Culinaria - Gastronomía de Castilla-La Mancha](https://vercel.app)**
 > Sitio web moderno y responsivo para restaurante enfocado en la gastronomía tradicional manchega. Cuenta con navegación intuitiva, carrusel interactivo de platos típicos (como pisto manchego y carcamusas), secciones de carta, reservas online y contacto.
-- **Rol en el equipo:** Desarrollador Web / Colaborador Full Stack
-- **Tecnologías utilizadas:** `HTML5` `CSS3` `Tailwind CSS` `JavaScript`
+- **Rol en el equipo:** Desarrollador Web / Data.json
+- **Tecnologías utilizadas:** `HTML5` `CSS3`  `JavaScript`
 - **Enlaces:** [🌐 Demo en Vivo](https://vercel.app)
+- **Participantes** Gabriel,Paula,Carlos.
 
 **🎬 [Nightmare Club - Videoclub de Terror](https://github.io)**
 > Plataforma web temática enfocada en el catálogo y gestión de películas de terror, desarrollada de forma colaborativa en equipo.
