@@ -89,3 +89,9 @@
   <img src="https://shields.io" alt="GitHub stars" />
   <img src="https://komarev.com" alt="Profile views" />
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://giphy.com" width="100%" alt="Goku" />
+</div>
