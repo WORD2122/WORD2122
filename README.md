@@ -21,7 +21,7 @@
 - **Rol en el equipo:** Desarrollador Web / Data.json
 - **Tecnologías utilizadas:** `HTML5` `CSS3` `JavaScript`
 - **Enlaces:** [🌐 Demo en Vivo](https://vercel.app)
-- **Participantes:** [Gabriel](https://github.com/BrennanDzz), [Paula](https://github.com/paulals1128), [Carlos](https://github.com)
+- **Participantes:** [Gabriel](https://github.com), [Paula](https://github.com), [Carlos](https://github.com)
 
 **🎬 [Nightmare Club - Videoclub de Terror](https://github.io)**
 > Plataforma web temática enfocada en el catálogo y gestión de películas de terror, desarrollada de forma colaborativa en equipo.
@@ -77,9 +77,8 @@
 ## 📊 GitHub Stats | Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://vercel.app" />
-  <img src="https://vercel.app" />
-  <img src="https://vercel.app" />
+  <img src="https://vercel.app" height="165" />
+  <img src="https://vercel.app" height="165" />
 </div>
 
 <br/>
@@ -93,5 +92,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://giphy.com" width="100%" alt="Goku" />
+  <img src="https://tenor.com" width="100%" alt="Goku" />
 </div>
