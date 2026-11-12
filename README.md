@@ -17,16 +17,19 @@
 
 **🍽️ [Raíz Culinaria - Gastronomía de Castilla-La Mancha](https://vercel.app)**
 > Sitio web moderno y responsivo para restaurante enfocado en la gastronomía tradicional manchega. Cuenta con navegación intuitiva, carrusel interactivo de platos típicos (como pisto manchego y carcamusas), secciones de carta, reservas online y contacto.
+
 - **Rol en el equipo:** Desarrollador Web / Data.json
-- **Tecnologías utilizadas:** `HTML5` `CSS3`  `JavaScript`
+- **Tecnologías utilizadas:** `HTML5` `CSS3` `JavaScript`
 - **Enlaces:** [🌐 Demo en Vivo](https://vercel.app)
-- **Participantes** Gabriel,Paula,Carlos.
+- **Participantes:** [Gabriel](https://github.com), [Paula](https://github.com), [Carlos](https://github.com)
 
 **🎬 [Nightmare Club - Videoclub de Terror](https://github.io)**
 > Plataforma web temática enfocada en el catálogo y gestión de películas de terror, desarrollada de forma colaborativa en equipo.
+
 - **Rol en el equipo:** Desarrollador Web / Colaborador Full Stack
 - **Tecnologías utilizadas:** `HTML5` `CSS3` `Tailwind CSS` `JavaScript`
 - **Enlaces:** [🌐 Demo en Vivo](https://github.io) | [🔗 Código Fuente](https://github.com)
+- **Participantes:** [Participante 1](https://github.com), [Participante 2](https://github.com)
 
 ---
 
@@ -43,15 +46,19 @@
 
 **🍽️ [Raíz Culinaria - Gastronomy of Castilla-La Mancha](https://vercel.app)**
 > Modern and responsive restaurant website showcasing traditional Manchegan cuisine. Features intuitive navigation, an interactive carousel of signature dishes (such as pisto manchego and carcamusas), menu sections, online reservations, and contact forms.
+
 - **Team Role:** Web Developer / Full Stack Collaborator
 - **Tech Stack:** `HTML5` `CSS3` `Tailwind CSS` `JavaScript`
 - **Links:** [🌐 Live Demo](https://vercel.app)
+- **Participants:** [Gabriel](https://github.com), [Paula](https://github.com), [Carlos](https://github.com)
 
 **🎬 [Nightmare Club - Horror Video Store](https://github.io)**
 > Thematic web platform focused on browsing and managing horror movies, built collaboratively as a team project.
+
 - **Team Role:** Web Developer / Full Stack Collaborator
 - **Tech Stack:** `HTML5` `CSS3` `Tailwind CSS` `JavaScript`
 - **Links:** [🌐 Live Demo](https://github.io) | [🔗 Source Code](https://github.com)
+- **Participants:** [Participant 1](https://github.com), [Participant 2](https://github.com)
 
 ---
 
